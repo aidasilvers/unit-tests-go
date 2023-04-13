@@ -174,4 +174,5 @@ func TestReadUserInput(t *testing.T) {
 
 func TestMain(m *testing.M) {
 	os.Exit(m.Run())
+	// the best
 }
